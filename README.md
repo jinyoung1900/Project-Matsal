@@ -18,7 +18,8 @@ In Korean, Matsal is also the name of imitation crab meat, and it literally mean
 - Figma (design + user flows)
 
 ## Status
-🚧 Early-stage concept – design and development in progress
+- In process of creating [Prototype](https://www.figma.com/proto/tRUQArOYTzbv9uuy7PBuUp/Matsal?node-id=14-3&t=y7LOV4wmizhD3jje-1)
+- Making UI/UX design doc
 
 ## Catch Phrases
 - 맛있게 살리는 한 끼, Matsal.
